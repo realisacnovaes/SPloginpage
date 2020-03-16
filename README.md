@@ -6,5 +6,7 @@ Creio eu que não está 100% bonita, mas pelo menos quebra o galho ;)
 Não sou EXPERT em HTML + CSS porém, se tiverem críticas, estarei aceitando.
 
 Love OpenSource!
+
 Preview
-<img src="https://raw.githubusercontent.com/realisacnovaes/SPloginpage/master/page.png" height="400px";>
+
+![](https://raw.githubusercontent.com/realisacnovaes/SPloginpage/master/page.png)
